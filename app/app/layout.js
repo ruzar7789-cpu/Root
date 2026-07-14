@@ -1,4 +1,5 @@
-import './globals.css'
+import '../globals.css'
+
 
 export const metadata = {
   title: 'Aegis Security Auditor v2.0',
