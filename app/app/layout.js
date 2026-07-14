@@ -1,6 +1,5 @@
 import '../globals.css'
 
-
 export const metadata = {
   title: 'Aegis Security Auditor v2.0',
   description: 'Profesionální modul pro pasivní recon a bezpečnostní audity',
